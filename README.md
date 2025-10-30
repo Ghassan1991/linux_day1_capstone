@@ -35,3 +35,30 @@ chmod +x *.sh
 
 # Run the full pipeline
 ./run_demo.sh
+
+
+🧰 Tech Stack
+
+🐚 Bash – Core scripting language
+
+🧮 Unix/Linux CLI – File, process, and permission management
+
+📦 Git – Version control and collaboration
+
+☁️ (Future) – Will extend with Docker & MLOps automation
+
+
+
+🏁 Next Steps
+
+In future phases, this repository will evolve into a complete MLOps learning environment:
+
+Add Dockerfile for reproducible environments
+
+Integrate MLflow tracking
+
+Automate deployments using CI/CD
+
+
+
+⭐ Feel free to fork & improve this project
