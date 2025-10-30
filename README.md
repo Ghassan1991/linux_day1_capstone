@@ -1,4 +1,4 @@
-# 🐧 Linux Day 1 Capstone
+# 🐧 Linux Capstone
 
 **Author:** Ghassan Mohammed Alkahlout  
 **Built with:** Bash Shell Scripts 🧠  
