@@ -35,7 +35,7 @@ chmod +x *.sh
 
 # Run the full pipeline
 ./run_demo.sh
-
+```
 
 ## 🧰 Tech Stack
 
