@@ -37,7 +37,7 @@ chmod +x *.sh
 ./run_demo.sh
 
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 🐚 Bash – Core scripting language
 
@@ -49,7 +49,7 @@ chmod +x *.sh
 
 
 
-🏁 Next Steps
+## 🏁 Next Steps
 
 In future phases, this repository will evolve into a complete MLOps learning environment:
 
